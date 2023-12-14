@@ -1,0 +1,25 @@
+body{
+   background-color: rgb(58, 58, 113);
+    background-repeat:repeat-y;
+}
+.mg{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 200px;
+    color: aliceblue;
+}
+.mg1{
+    text-align: center;
+    margin: 10px 370px ;
+    color: aliceblue;
+}
+button{
+  border-radius: 50px;
+  width: 200px;
+  height: 60px;
+  background-color: yellow;
+    
+}
+.mg4{
+   text-align: center;
+}
